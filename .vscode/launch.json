@@ -1,0 +1,91 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "L06_ArrayList",
+            "request": "launch",
+            "mainClass": "com.basic.L06_ArrayList",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "L07_LoopPitfalls",
+            "request": "launch",
+            "mainClass": "com.basic.L07_LoopPitfalls",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "L05_String",
+            "request": "launch",
+            "mainClass": "com.basic.L05_String",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "L04_Class",
+            "request": "launch",
+            "mainClass": "com.basic.L04_Class",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "L02_ControlFlow",
+            "request": "launch",
+            "mainClass": "com.basic.L02_ControlFlow",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "L01_Variables",
+            "request": "launch",
+            "mainClass": "com.basic.L01_Variables",
+            "projectName": "learn-java"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "learn-java_4981de5c"
+        },
+        {
+            "type": "java",
+            "name": "day5",
+            "request": "launch",
+            "mainClass": "day5",
+            "projectName": "learn-java_4981de5c"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4",
+            "projectName": "learn-java_4981de5c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldWithBasicTypes",
+            "request": "launch",
+            "mainClass": "HelloWorldWithBasicTypes",
+            "projectName": "learn-java_4981de5c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "learn-java_4981de5c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
